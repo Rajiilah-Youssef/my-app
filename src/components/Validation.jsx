@@ -61,7 +61,7 @@ export default function Validation() {
       </div>
       <p className="form-actions">
         <button className='button button-flat' type="button" onClick={handleReset}>Reset</button>
-        <button className='button'>Validation</button>
+        <button className='button' type="submit">Validation</button>
       </p>
     </form>
   );
