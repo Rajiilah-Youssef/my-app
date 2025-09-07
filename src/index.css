@@ -110,3 +110,14 @@ header h1 {
   letter-spacing: 0.2rem;
   color: #2f4444
 }
+
+.button-flat {
+  background-color: transparent;
+  color: #9cbaba
+}
+
+.button-flat:hover,
+.button-flat:focus {
+  background-color: transparent;
+  background-color: #869999;
+}
